@@ -1,0 +1,6 @@
+pandas
+matplotlib
+yfinance
+requests
+google-genai
+pydantic
